@@ -1,1 +1,1 @@
-# teszt
+A teszt branch-en keszits egy PR-t a mainre pls, es assign-old nekem (MiklosBacsi)
